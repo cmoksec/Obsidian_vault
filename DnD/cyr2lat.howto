@@ -1,0 +1,1 @@
+find . -type f -name "*.png" -exec ./cyr2lat.sh {} +
